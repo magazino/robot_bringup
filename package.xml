@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>robot_bringup</name>
+  <version>1.10.0</version>
+  <description>robot_bringup</description>
+  <maintainer email="grimm@magazino.eu">Markus Grimm</maintainer>
+  <author>Markus Grimm</author>
+  <license>BSD</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+</package>
